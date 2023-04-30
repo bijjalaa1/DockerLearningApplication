@@ -1,4 +1,4 @@
-package com.aravind.dockerlearning.doeckerlearning;
+package com.aravind.dockerlearning.dockerlearning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

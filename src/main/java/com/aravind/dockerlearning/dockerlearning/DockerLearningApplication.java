@@ -1,4 +1,4 @@
-package com.aravind.dockerlearning.doeckerlearning;
+package com.aravind.dockerlearning.dockerlearning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
